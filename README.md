@@ -17,7 +17,8 @@ If you want to produce one, you will need some parts.
 ### PCB
 
 - 1x nanosplit PCB, created using the files in the `prod/pcb/` directory with an online PCB prototyping service. (e.g., [JLCPCB](https://jlcpcb.com/).) Productions requires assembly with SMD parts, so you'll need to include the Gerbers, BOM, and CPL files.
-- 16x Cherry MX Ultra Low Profile Switches. (I used Tactile, but you could use Clicky if you want)
+  - If you are unfamiliar with this process, I recommend following the PCB ordering steps from [this README](https://github.com/AlpenmeisterCustoms/MeisterboxS).
+- 16x Cherry MX Ultra Low Profile Switches. (I used Tactile, but you could use Clicky if you want.)
 
 ### Keycaps
 
