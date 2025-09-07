@@ -6,13 +6,11 @@ Leverless (Hitbox-style) fighting game controller with a split-hand design using
 
 ## About
 
-This controller was inspired by Paradise Arcade's [MPress Nano](https://paradisearcadeshop.com/products/mpress-nano-leverless-gaming-controller). I tried it at an event booth and really liked the buttons, but personally have a strong preference for split layouts.
-
-I designed this from scratch to satisfy that desire.
-
 Fully assembled, dimensions are `304 x 124 x 9.8mm` (including bolts and non-slip pads, `8.6mm` without).
 
 Powering this device is OpenStick's excellent [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) gamepad firmware. Please see that repository for information about configuration, console compatibility, and all the rest.
+
+The ultra low profile scissor switches used by this controller (which I believe are primarily intended for laptop keyboard) have an extremely tactile activation and are somewhat harder to depress than standard Sanwa arcade buttons. This makes their actuation feel very binary (either all-the-way down or all-the-way up), almost the complete opposite of the smooth feel of traditional arcade buttons. Experientially, I have found them to be very divisive: people either love or hate the way they feel. If possible, I recommend trying them (say, by borrowing a friend's MPress Nano at your local) before committing to a full build.
 
 ## Creation
 
@@ -74,7 +72,8 @@ PCB and case designs licensed under [CC BY-SA 4.0](https://creativecommons.org/l
 ## Acknowledgments
 
 - [GrooveBob](https://github.com/GroooveBob)'s [Stress](https://github.com/GroooveBob/Stress), which helped inspire this design.
-- [jfedor2](https://github.com/jfedor2)'s [Flatbox](https://github.com/jfedor2/flatbox), whose RP2040 implementation I reused. [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Paradise Arcade](https://paradisearcadeshop.com/)'s [MPress Nano](https://paradisearcadeshop.com/products/mpress-nano-leverless-gaming-controller), which helped inspire this design.
+- [jfedor2](https://github.com/jfedor2)'s [Flatbox](https://github.com/jfedor2/flatbox), whose RP2040 implementation I recreated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [ruiqimao](https://github.com/ruiqimao)'s [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide), which led me through the entire PCB creation process.
 - [pashutk](https://github.com/pashutk)'s [Cherry_MX_ULP](https://github.com/pashutk/Cherry_MX_ULP) repository and links, whose footprints are present in the PCB design and whose README gave me the confidence to try hand-soldering these normally-SMD switches.
 - [Sadek Baroudi](https://github.com/sadekbaroudi)'s [Keyboard Case Design](https://kbd.news/Keyboard-Case-Design-1764.html) article, which showed the process for exporting the PCB into a form usable during case design.
