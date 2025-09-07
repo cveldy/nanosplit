@@ -10,7 +10,7 @@ Fully assembled, dimensions are `304 x 124 x 9.8mm` (including bolts and non-sli
 
 Powering this device is OpenStick's excellent [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) gamepad firmware. Please see that repository for information about configuration, console compatibility, and all the rest.
 
-The ultra low profile scissor switches used by this controller (which I believe are primarily intended for laptop keyboard) have an extremely tactile activation and are somewhat harder to depress than standard Sanwa arcade buttons. This makes their actuation feel very binary (either all-the-way down or all-the-way up), almost the complete opposite of the smooth feel of traditional arcade buttons. Experientially, I have found them to be very divisive: people either love or hate the way they feel. If possible, I recommend trying them (say, by borrowing a friend's MPress Nano at your local) before committing to a full build.
+The ultra-short scissor switches used by this controller (which I believe are primarily intended for laptop keyboards) have an extremely tactile action and are somewhat harder to depress than standard Sanwa arcade buttons. This makes their actuation feel very binary (either all-the-way down or all-the-way up), almost the complete opposite of the smooth feel of traditional arcade buttons. Experientially, I have found them to be very divisive: people either love or hate the way they feel. If possible, I recommend trying them (say, by borrowing a friend's MPress Nano at your local) before committing to a full build.
 
 ## Creation
 
