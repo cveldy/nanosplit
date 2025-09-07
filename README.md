@@ -2,7 +2,7 @@
 
 Leverless (Hitbox-style) fighting game controller with a split-hand design using Cherry MX Ultra Low Profile (ULP) switches.
 
-`TODO: One or more images`
+![Front view of the nanosplit controller](./images/controller.png)
 
 ## About
 
