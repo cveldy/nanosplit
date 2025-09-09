@@ -63,7 +63,7 @@ If you want to produce one, you will need some parts.
 
 ### Art
 
-`TODO: Eventually, I intend to create an art template that can be used to print artwork which will fit between the acrylic layers on the bottom of the device.`
+You can use [this template](./prod/art/template_A3_300dpi.psd) to place artwork into a printable template with outlines showing where to cut. The template is sized to A3 paper and set for 300dpi. Once printed and cut, the art slots between the two acrylic lays on the *bottom* of the controller.
 
 ## License
 
